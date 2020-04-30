@@ -1,0 +1,60 @@
+
+.background-box {
+    position: absolute;
+    background-color:	#26648E;
+    width: 600px;
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    margin-top: -250px;
+    margin-left: -250px;
+    box-shadow: 3px 3px 3px 3px rgba(38, 38, 38, 0.1);
+}
+.choose-box {
+    width: 97%;
+    text-align: center;
+    font-size: 15px;
+    font-family: fantasy;
+    padding : 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: 	#4F8FC0;
+    border-radius: 100px;
+}
+.choose-box:hover {
+    box-shadow: 3px 3px 3px 3px rgba(38, 38, 38, 0.3);
+}
+.Profile{
+    width: 180px;
+    height: 180px;
+    border-radius: 100px;
+    margin-top: 10px;
+    border-style: double;
+    border-color: snow
+}
+.topic {
+    padding : 10px;
+}
+.odd {
+    background-color: darkblue;
+    color: white;
+}
+.even {
+    background-color: lavender		;
+}
+.Table {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+
+    width: 90%;
+    text-align: left;
+    font-family: fantasy;
+    font-size: 18px;
+}
+.background-box:hover {
+    box-shadow: 3px 3px 3px 3px rgba(38, 38, 38, 0.5);
+}
